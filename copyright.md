@@ -20,3 +20,9 @@ Bryan Berg
 c/o Mixed Media Labs, Inc.
 650 5th St., Suite 403
 San Francisco, CA 94107
+
+## DMCA Counter-Notice ##
+
+Under DMCA 512(g), you have the right to file a counter-notice stating that material has been wrongly removed, if it does not infringe.  You must list the affected works and state under penalty of perjury that the material was removed by mistake or misidentification.
+
+You may find Chilling Effects' [counter-notice generator](http://www.chillingeffects.org/dmca/counter512.pdf) helpful.  Use the same address as above for Mixed Media Labs.
