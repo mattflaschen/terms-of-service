@@ -33,7 +33,6 @@ We use information about you for various purposes, including to:
 * Send you technical notices, updates, security alerts and support and administrative messages;
 * Respond to your comments, questions and requests and provide customer service;
 * Communicate with you about App.net;
-* Provide news and information we think will be of interest to you;
 * Monitor and analyze trends, usage and activities in connection with our services;
 * Personalize and improve our services; and
 * Link or combine with other information we get from third parties to help understand your needs and provide you with better service.
